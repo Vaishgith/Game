@@ -17,7 +17,7 @@ This is a simple **Tic Tac Toe** game built using HTML/CSS/JavaScript.
 
 ## Demo
 
-[Visit my game](https://vaishgith.github.io/Game/)
+[Visit my game][(https://vaishnav0720.github.io/Tic-Tac-Toe-Game/)]
 
 ## Installation
 
